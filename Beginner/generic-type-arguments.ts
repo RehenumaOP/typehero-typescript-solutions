@@ -3,7 +3,6 @@
  * Difficulty: Beginner
  * Platform: TypeHero
  * Language: TypeScript
- * Date Solved: 2026-07-24
  */
 
 type GroceryItem<Name,Price,Instock> = {
